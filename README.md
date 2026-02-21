@@ -6,13 +6,21 @@ Installation:
 If not already installed, the following programs are required:
 
 pip install torch
+
 pip install torchvision
+
 pip install requests
+
 pip install packaging
+
 pip install pyparsing
+
 pip install cycler
+
 pip install python-dateutil (NOTE: NOT dateutil)
+
 pip install kiwisolver
+
 pip install importlib_resources
 
 Download the project files to your hard drive. In that folder, download the COCO JSON version of the file https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a .zip file and extract it.
