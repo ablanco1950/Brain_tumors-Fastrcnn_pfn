@@ -23,6 +23,8 @@ pip install kiwisolver
 
 pip install importlib_resources
 
+Since these are common modules in a Python development environment, you can try running the project and installing only the modules that gave a "module not found" error.
+
 Download the project files to your hard drive. In that folder, download the COCO JSON version of the file https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a .zip file and extract it.
 
 Training:
