@@ -39,6 +39,12 @@ python test.py
 
 ![Fig1](https://github.com/ablanco1950/Brain_tumors-Fastrcnn_pfn/blob/main/Figure_1.png)
 
+![Fig2](https://github.com/ablanco1950/Brain_tumors-Fastrcnn_pfn/blob/main/Figure_2.png)
+
+![Fig3](https://github.com/ablanco1950/Brain_tumors-Fastrcnn_pfn/blob/main/Figure_3.png)
+
+
+
 
 References:
 
