@@ -38,6 +38,8 @@ Checking results:
 python test.py
 
 ![Fig1](https://github.com/ablanco1950/Brain_tumors-Fastrcnn_pfn/blob/main/Figure_1.png)
+
+
 References:
 
 AI from Bing asking "python train labels images with fpn" in the Explorer address bar
