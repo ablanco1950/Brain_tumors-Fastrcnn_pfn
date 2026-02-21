@@ -37,6 +37,8 @@ Checking results:
 
 python test.py
 
+![Fig1](https://github.com/ablanco1950/wristFracture_-fasterrcnn_resnet50_fpn_v2/blob/main/LT_wrist_jumbo_jpeg_jpg.jpg)
+
 References:
 
 AI from Bing asking "python train labels images with fpn" in the Explorer address bar
